@@ -1,3 +1,4 @@
-function sum(a, b, c)  {
-    return ++a + ++b + ++c;
-}
+console.log("a");
+console.log();
+console.log("b");
+console.log('c');
